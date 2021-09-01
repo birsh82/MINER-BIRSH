@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/env python3
 ##########################################
-# Duino-Coin Python PC Miner (v2.5.6)
+# Duino-Coin Python PC Miner (v2.7)
 # https://github.com/revoxhere/duino-coin
 # Distributed under MIT license
 # © Duino-Coin Community 2019-2021
